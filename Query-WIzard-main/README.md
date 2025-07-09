@@ -144,13 +144,11 @@ Query_Wizard_3.0/
 
 ## 👤 Authors
 
-- **Rishi Varshney**  
-  [LinkedIn](https://www.linkedin.com/in/rishi-varshney100/) | [LeetCode](https://leetcode.com/u/Rishi_varshney/)  
-  Email: rishi.varshney100@gmail.com
+- **Rishika Ranjan**  
+  [LinkedIn](www.linkedin.com/in/rishika-ranjan-5a0704281) | [LeetCode](https://leetcode.com/u/rishika456ranjan/))  
+  Email: rishika456ranjan@gmail.com
 
-- **Tushar Ranjan**  
-  [LinkedIn](https://www.linkedin.com/in/tushar-ranjan-4186a8179/) | [LeetCode](https://leetcode.com/u/tushar_ranjan/)  
-  Email: tusharranjan151@gmail.com
+
 
 ---
 
