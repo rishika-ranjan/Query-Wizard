@@ -145,7 +145,7 @@ Query_Wizard_3.0/
 ## 👤 Authors
 
 - **Rishika Ranjan**  
-  [LinkedIn](www.linkedin.com/in/rishika-ranjan-5a0704281) | [LeetCode](https://leetcode.com/u/rishika456ranjan/))  
+  [LinkedIn](www.linkedin.com/in/rishika-ranjan-5a0704281) | [LeetCode](https://leetcode.com/u/rishika456ranjan/)  
   Email: rishika456ranjan@gmail.com
 
 
